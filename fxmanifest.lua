@@ -3,8 +3,8 @@ game { 'gta5' }
 
 lua45 'yes'
 
-author 'NN | Simon'
-discription 'NN Auto Versicherung'
+author 'SM X Simon'
+discription 'SM Auto Versicherung'
 
 client_scripts {
     'config.lua',
